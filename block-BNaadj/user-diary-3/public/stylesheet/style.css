@@ -1,0 +1,11 @@
+h2 {
+  font-size: 2rem;
+  padding: 2rem;
+}
+.container {
+  max-width: 1300px;
+  margin: 0 auto;
+}
+form{
+  margin-top: 5rem;
+}
